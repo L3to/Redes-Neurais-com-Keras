@@ -13,8 +13,7 @@
 ``` bash
 jupyter notebook cp5-parte1-IA.ipynb
 ```
-## Rode as células
-
+**Instale as bibliotecas necessárias para rodar as células do arquivo**
 
 ## Comparação de desempenho entre modelos
 ### Exercício 1
