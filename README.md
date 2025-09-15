@@ -6,9 +6,8 @@
 - Luiz Felipe Campos da Silva - RM555591 - 2TDSPV
 - Pedro Abrantes Andrade - RM558186 - 2TDSPV
 
-
 ## Baixe o arquivo:
-cp5-parte1-IA.ipynb
+`cp5-parte1-IA.ipynb`
 
 ## Acesse o arquivo via Google Colab ou Jupyter Notebook
 ``` bash
