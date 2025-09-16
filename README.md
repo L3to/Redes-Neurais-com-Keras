@@ -31,7 +31,7 @@ Observamos o melhor desempenho utilizando o modelo RandomForest, mas desconfiamo
 <img width="1089" height="194" alt="image" src="https://github.com/user-attachments/assets/01126370-169d-40a2-a71c-d86b0494799d" />
 
 #### RMSE treinando com LinearRegression:
-<img width="840" height="394" alt="image" src="https://github.com/user-attachments/assets/7c89ff4d-f8ad-419a-8166-0b2d78a1b75d" />
+<img width="1485" height="404" alt="image" src="https://github.com/user-attachments/assets/8e904b7e-9371-47d1-969c-d662e01386f3" />
 
 #### Análise:
 **Porquê a Rede Neural performou melhor que o modelo de Regressão Linear?**
